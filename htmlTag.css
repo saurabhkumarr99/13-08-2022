@@ -1,0 +1,18 @@
+body {
+    background-color: antiquewhite;
+}
+
+header {
+    background-color: aqua;
+    text-align: center;
+}
+
+section {
+    background-color: aquamarine;
+    text-align: center;
+}
+
+footer {
+    background-color: cadetblue;
+    text-align: center;
+}
